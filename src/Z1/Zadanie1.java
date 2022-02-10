@@ -9,7 +9,7 @@ public class Zadanie1 {
         Integer[] isunSortedInt = new Integer[]{1, 2, 3};
         LocalTime[] isSortedLocalTime = new LocalTime[]{
                 LocalTime.of(12,00),
-                LocalTime.of(11,22),
+                LocalTime.of(11,2),
                 LocalTime.of(11,20)
         };
         LocalTime[] isunSortedLocalTime = new LocalTime[]{
